@@ -3,7 +3,7 @@ Food Order System in java NetBeans.
 
 Select categories , select checkbox , enter quantity and press Total button. 
 
-Output :
+Output :test
 
 
 ![fo1](https://user-images.githubusercontent.com/106819662/196504053-5261a2ae-476b-4302-9c6a-c2adeb213858.png)
